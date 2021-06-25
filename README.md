@@ -25,6 +25,6 @@ You can denie visitors from specific country to visit your website.
 You can ban visitors IP address
 and more...
 
-Some of files are missing in this plugin because of github policies.
+Some of files are missing in this plugin because of github policy.
 
 Watch on YT: 
